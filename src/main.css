@@ -1,0 +1,28 @@
+.header {
+  position: relative;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  text-align: center;
+  width: 100vw;
+  top: 0;
+  background-color: white;
+}
+
+.header h1 {
+  font-size: 1.3rem;
+  font-weight: bold;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  overflow-x: hidden;
+}
+
+main {
+  margin-top: 5rem;
+}
+/*# sourceMappingURL=main.css.map */
